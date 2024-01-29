@@ -1,4 +1,4 @@
-The program reads from data from “input.txt” file, which is located in the project file.
+The program reads data from “input.txt” file, which is located in the project file.
 Every row starts with a specific character, that the program reads and determines what type of Shelter object to instantiate. Then it reads information that is used in the constructor of every object. 
 1st row: B (Bunker), 5.0 (seismic activity), 3.0 (strength) 12 (age), 3(integer position for the enum type of Atmospheric condition), 60 (capacity), 5.0 (depth), 40.0 (area), 2 (anti fire systems), 4 (anti-tank mines)
 2nd row: X (Barracks), 6.0 (seismic activity), 2.0 (strength), 10 (age), 2 (integer position for the enum type of Atmospheric condition), 30 (capacity), 30 (years practicable), 8 (secret entrances), 4 (rooms for weapons), 24 (beds for injured)
