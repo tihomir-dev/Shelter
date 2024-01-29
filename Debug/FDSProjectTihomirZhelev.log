@@ -1,0 +1,5 @@
+﻿  Functions.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\Lenovo\source\repos\FDSProjectTihomirZhelev\Functions.cpp(18,21): warning C4018: '<': signed/unsigned mismatch
+  FDSProjectTihomirZhelev.vcxproj -> C:\Users\Lenovo\source\repos\FDSProjectTihomirZhelev\Debug\FDSProjectTihomirZhelev.exe
